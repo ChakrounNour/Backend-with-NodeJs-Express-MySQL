@@ -1,4 +1,4 @@
- Pour le site en cours de développement, j'ai utilisée ReactJS pour le frontend.
+ Pour le site en cours de développement, j'ai utilisé ReactJS pour le frontend.
 
 
 
